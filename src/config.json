@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "org.amref.jibu",
+    "appname": "Jibu",
+    "desktopappname": "Jibu",
     "versioncode": 3940,
     "versionname": "3.9.4-dev",
     "cache_update_frequency_usually": 420000,
@@ -63,6 +63,11 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
+    "font_sizes": [
+        62.5,
+        75.89,
+        93.75
+    ],
     "demo_sites": {
         "student": {
             "url": "https:\/\/school.moodledemo.net",
@@ -75,14 +80,9 @@
             "password": "moodle"
         }
     },
-    "font_sizes": [
-        62.5,
-        75.89,
-        93.75
-    ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://ecampusvps.amref.org",
+    "sitename": "Jibu",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
